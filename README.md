@@ -1,4 +1,4 @@
-### <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there, I'm João Vitor Miranda</h1>
+### <h1> Hi there, I'm João Vitor Miranda</h1>
 ### A very curious front-end development student who is always learning something new!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jv-miranda&color=orange" alt="Profile views" /> </p>
 
